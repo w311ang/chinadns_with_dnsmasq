@@ -1,4 +1,4 @@
-name: Generate dnsmasq conf
+name: Generate dnsmasq config
 
 on:
   workflow_dispatch:
